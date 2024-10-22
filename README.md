@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # reactDataTableAndRoter
 # reactDataTaleAndRoter
 # reactDataTable
+# dataTable
